@@ -1,0 +1,1 @@
+print("Welcome to script writing in python")
